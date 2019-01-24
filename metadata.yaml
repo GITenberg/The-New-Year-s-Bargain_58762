@@ -1,5 +1,8 @@
 _repo: The-New-Year-s-Bargain_58762
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58762-h/images/cover2.jpg
 creator:
   author:
     agent_name: Coolidge, Susan
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1508
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58762#The-New-Year-s-Bargain
 gutenberg_issued: '2019-01-24'
 gutenberg_type: Text
 identifiers:
